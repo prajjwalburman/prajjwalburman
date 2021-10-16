@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=harsh07bharvada&style=flat-square)
 
 <br />
-<br />
 
 - 🔭 I’m currently working on Java, Spring Boot, Hibernate and Cloud ( Too mainstream right! )
 - 🌱 I’m currently learning Angular (I know, I know it's very boring)!!!
@@ -33,10 +32,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [prajjwal.burman101@gmail.com](mailto:prajjwal.burman101@gmail.com)
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - ⚡ Fun fact: I play Indian Classical Hawaiian Guitar :)
+<br/>
 
 ![Prajjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajjwalburman&count_private=true&show_icons=true&cache_seconds=1800)
 
-**Languages and Tools:**  
+<br/>
+
+### Languages and Tools: 
 
 <p align="left">
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> </a>
