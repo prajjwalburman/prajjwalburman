@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **prajjwalburman/prajjwalburman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - ⚡ Fun fact: I play Indian Classical Hawaiian Guitar :)
 
-![Prajjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajjwalburman&show_icons=true&theme=dracula&count_private=true)
+![Prajjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajjwalburman&count_private=true&show_icons=true&cache_seconds=1800)
 
 **Languages and Tools:**  
 
