@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
 - ⚡ Fun fact: I play Indian Classical Hawaiian Guitar :)
 
-
+![Prajjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajjwalburman&show_icons=true&theme=dracula&count_private=true)
 
 **Languages and Tools:**  
 
